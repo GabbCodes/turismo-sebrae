@@ -1,0 +1,787 @@
+.layoutAprovadoRootRootRoot {
+  height: 4981px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.flexColumn {
+  height: 1362px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  margin: 0px 0px 60px 0px;
+  background-color: #455663;
+}
+.bgHeader {
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 30px 0px 212px 0px;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/7ZPVz0et7d1RCzhGcJnm.svg");
+}
+.logo {
+  width: 105px;
+  height: 32px;
+  margin: 0px 20.5px 0px 0px;
+}
+.logoSebrae {
+  width: 59.2px;
+  height: 32px;
+  margin: 0px 265px 0px 0px;
+}
+.flexColumn1 {
+  height: 458px;
+  gap: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-self: center;
+  align-items: stretch;
+  margin: 0px 417px 0px 0px;
+}
+.flexColumn2 {
+  width: 482px;
+  gap: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flexColumn3 {
+  width: 369px;
+  height: 172px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: stretch;
+  padding: 0px 57px 0px 56px;
+}
+.text1 {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.25);
+  font-size: 150px;
+  font-family: Redacted Script;
+  text-align: center;
+  white-space: nowrap;
+}
+.text2 {
+  position: relative;
+  color: #ffffff;
+  font-size: 100px;
+  font-family: Oswald;
+  text-align: center;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+.line2 {
+  width: 200px;
+  height: 1px;
+}
+.flexRow {
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px 196px;
+}
+.paraibaMap {
+  width: 55.8px;
+  height: 32px;
+  padding: 0px;
+  border-width: 0px;
+  box-sizing: content-box;
+  background-color: transparent;
+  background: none;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/4RqQHR0wODjGgpLORqf0.svg");
+  cursor: pointer;
+}
+.paraibaMap:hover {
+  opacity: 70%;
+}
+.image3 {
+  width: 24px;
+  height: 24px;
+  padding: 0px;
+  border-width: 0px;
+  box-sizing: content-box;
+  background-color: transparent;
+  background: none;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/Y2yMmnWQD0lNEW3AZzNw.svg");
+  cursor: pointer;
+}
+.image3:hover {
+  opacity: 70%;
+}
+.menu {
+  width: 32px;
+  height: 32px;
+  margin: 1px 0px 0px 0px;
+}
+.text3 {
+  align-self: center;
+  margin: 0px 0px 20px 0px;
+  color: #232323;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: Roboto;
+  text-align: center;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+.paragraph {
+  align-self: center;
+  margin: 0px 0px 60px 0px;
+  color: #72706f;
+  font-size: 18px;
+  font-family: Roboto;
+  text-align: center;
+  white-space: nowrap;
+}
+.flexRow1 {
+  width: 1440px;
+  height: 377px;
+  gap: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 60.8px 0px;
+}
+.microregioesPb {
+  width: 661px;
+  height: 377px;
+}
+.flexColumn4 {
+  width: 449px;
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 105px 0px 84.2px 0px;
+}
+.text4 {
+  color: #72706f;
+  font-size: 15px;
+  font-weight: 700;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.blackFlexRow {
+  width: 397px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: stretch;
+  align-items: center;
+  padding: 19px 27px 18px 25px;
+  border-radius: 5px;
+  background-color: rgba(35, 35, 35, 0.1);
+}
+.text5 {
+  color: #232323;
+  font-size: 28px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.image4 {
+  width: 24px;
+  height: 24px;
+  align-self: flex-start;
+  margin: 4px 0px 0px 0px;
+}
+.orangeFlexRow {
+  gap: 27px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 8px 11px 8px 15px;
+  border-radius: 5px;
+  background-color: #ff6600;
+}
+.text6 {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: Roboto;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+.flexRow2 {
+  width: 863px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px 292px 0px 285px;
+}
+.razzmatazzFlexRow {
+  width: 88px;
+  gap: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 8.5px 0px 0px;
+  padding: 4px 0px;
+  border-radius: 5px;
+  background-color: rgba(255, 0, 108, 0.15);
+}
+.lucidevenetianmask {
+  width: 20px;
+  height: 20px;
+}
+.text11 {
+  margin: 0px 19px 0px 0px;
+  font-size: 14px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.flexColumn5 {
+  height: 2522px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+.flexColumn6 {
+  width: 1202px;
+  height: 685px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin: 0px 0px 60px 0px;
+  padding: 0px 218px 0px 20px;
+}
+.blackFlexRow1 {
+  left: 0px;
+  top: 81px;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(35, 35, 35, 0.1);
+}
+.blackFlexColumn {
+  width: 215px;
+  height: 340px;
+  gap: 57px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 30px 30px 30px 43px;
+  background-color: rgba(35, 35, 35, 0.7);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal, normal;
+  background-image: linear-gradient(
+      rgba(35, 35, 35, 0.7),
+      rgba(35, 35, 35, 0.7)
+    ),
+    url(https://file.rendit.io/n/zOMEUetJI2CYRLVCTUwU.jpg);
+}
+.flexColumn7 {
+  width: 202px;
+  height: 131px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  padding: 0px 13px 0px 0px;
+}
+.text15 {
+  margin: 0px 0px 9px 0px;
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: 500;
+  font-family: Oswald;
+  white-space: nowrap;
+  letter-spacing: -1.2px;
+}
+.line1 {
+  width: 100px;
+  height: 1px;
+  margin: 0px 0px 10px 0px;
+}
+.paragraph1 {
+  width: 202px;
+  align-self: stretch;
+  color: #ffffff;
+  font-size: 14px;
+  font-family: Roboto;
+  text-align: center;
+}
+.whiteFlexColumn {
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  padding: 0px 8px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+.flexColumn8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 177px 53px 176px 54px;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/UZwyHQE1YAgHfOYVtUbp.png");
+}
+.flexColumn9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 177px 50px 176px 50px;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/aE2mmWfgpwpJy2ClH0Fh.png");
+}
+.flexColumn10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 177px 55px 176px 55px;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/wqwVMllE6ZCONrDgXJSH.png");
+}
+.flexColumn11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 177px 86px 176px 86px;
+  background-size: cover;
+  background-image: url("https://file.rendit.io/n/rGKKkoYv0BfmlJLeEbqX.png");
+}
+.flexColumn12 {
+  width: 185px;
+  height: 120px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  padding: 0px 872px 0px 145px;
+}
+.text20 {
+  left: 175px;
+  top: 0px;
+  position: absolute;
+  color: rgba(35, 35, 35, 0.1);
+  font-size: 120px;
+  font-weight: 900;
+  font-family: Roboto;
+  line-height: 120.22499084472656px;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+.text21 {
+  position: relative;
+  color: #232323;
+  font-size: 60px;
+  font-weight: 300;
+  font-family: Roboto;
+  line-height: 60.11249542236328px;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+.flexRow3 {
+  width: 1202px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.text22 {
+  align-self: flex-start;
+  margin: 59px 0px 0px 0px;
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 50px;
+  font-weight: 500;
+  font-family: Oswald;
+  white-space: nowrap;
+  letter-spacing: -1.88px;
+}
+.flexRow4 {
+  width: 946px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.content {
+  width: 836px;
+  left: 0px;
+  top: 199px;
+  position: absolute;
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 30px 40px;
+  border-width: 3px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ff6600;
+  background-color: #ffffff;
+}
+.image7 {
+  width: 48px;
+  height: 48px;
+}
+.paragraph2 {
+  color: #232323;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: Roboto;
+  text-align: center;
+  white-space: pre-wrap;
+}
+.text23 {
+  display: contents;
+  color: #7316e9;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: Roboto;
+}
+.flexColumn13 {
+  width: 50px;
+  height: 323px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: center;
+  align-items: stretch;
+  margin: 0px 145px 0px 0px;
+  padding: 0px 92.8px 0px 17.1px;
+}
+.image2 {
+  width: 160px;
+  height: 177px;
+  left: 0px;
+  top: 133px;
+  position: absolute;
+}
+.text25 {
+  position: relative;
+  margin: 0px 61.5px 0px 0px;
+  color: #ffffff;
+  font-size: 100px;
+  font-weight: 500;
+  font-family: Oswald;
+  white-space: nowrap;
+  letter-spacing: -3.75px;
+}
+.image8 {
+  width: 26px;
+  height: 13px;
+  position: relative;
+  align-self: flex-end;
+  margin: 0px 150px 0px 0px;
+}
+.text26 {
+  position: relative;
+  margin: 0px 237px 0px 0px;
+  color: #ffffff;
+  font-size: 100px;
+  font-weight: 500;
+  font-family: Oswald;
+  white-space: nowrap;
+  letter-spacing: -3.75px;
+}
+.melonFlexColumn {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  margin: 0px 0px 60px 0px;
+  padding: 0px 656px;
+  background-color: #f2baba;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal;
+  background-image: linear-gradient(
+    rgba(242, 187, 187, 1),
+    rgba(242, 187, 187, 1)
+  );
+}
+.image9 {
+  width: 128px;
+  height: 128px;
+}
+.flexColumn14 {
+  width: 1px;
+  height: 208px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin: 0px 0px 49.7px 0px;
+  padding: 0px 540px 0px 899px;
+}
+.blackFlexRow2 {
+  width: 1170px;
+  height: 168px;
+  left: 135px;
+  top: 9.79px;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 0.21px 0px 30.5px 0px;
+  border-radius: 6px;
+  background-color: rgba(35, 35, 35, 0.1);
+}
+.flexColumn15 {
+  width: 244px;
+  height: 167.84823608398438px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  align-items: stretch;
+  margin: 0px 79px 0px 0px;
+  padding: 0px 59px;
+}
+.image10 {
+  width: 244px;
+  height: 45.8px;
+  position: relative;
+}
+.image11 {
+  width: 248px;
+  height: 54.3px;
+  margin: 0px 137px 55.4px 0px;
+}
+.image12 {
+  width: 285px;
+  height: 51.2px;
+  margin: 0px 0px 53.2px 0px;
+}
+.line {
+  width: 1px;
+  height: 198px;
+  position: relative;
+}
+.text28 {
+  align-self: center;
+  margin: 0px 0px 60px 0px;
+  color: #232323;
+  font-size: 30px;
+  font-family: Roboto;
+  line-height: 30.05624771118164px;
+  text-align: center;
+  white-space: nowrap;
+}
+.text29 {
+  display: contents;
+  color: #232323;
+  font-size: 30px;
+  font-family: Roboto;
+  line-height: 30.05624771118164px;
+  white-space: pre-wrap;
+  text-transform: uppercase;
+}
+.text30 {
+  display: contents;
+  color: #ff006c;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: Roboto;
+  line-height: 30.05624771118164px;
+  text-transform: uppercase;
+}
+.flexRow5 {
+  width: 1440px;
+  gap: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 30px 0px;
+}
+.flexColumn16 {
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  padding: 26px 123px 26px 30px;
+  border-radius: 6px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal, normal, normal;
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 48%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    linear-gradient(180deg, rgba(0, 0, 0, 0) 48%, rgba(0, 0, 0, 0.6) 100%),
+    url(https://file.rendit.io/n/Cc5ijK6VHJujeKUys9OP.jpg),
+    linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.flexColumn17 {
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  padding: 26px 197px 26px 30px;
+  border-radius: 6px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal, normal, normal;
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 48%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    linear-gradient(180deg, rgba(0, 0, 0, 0) 48%, rgba(0, 0, 0, 0.6) 100%),
+    url(https://file.rendit.io/n/eAsujreS5tvdiPE9J0uj.jpg),
+    linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.flexColumn18 {
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  padding: 26px 161px 26px 30px;
+  border-radius: 6px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal, normal, normal;
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 48%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    linear-gradient(180deg, rgba(0, 0, 0, 0) 48%, rgba(0, 0, 0, 0.6) 100%),
+    url(https://file.rendit.io/n/CcV4BKmw5buBKgdhdO3W.jpg),
+    linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.flexRow6 {
+  width: 1440px;
+  gap: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 60px 0px;
+}
+.flexColumn19 {
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  padding: 26px 91px 26px 30px;
+  border-radius: 6px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal, normal, normal;
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 48%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    linear-gradient(180deg, rgba(0, 0, 0, 0) 48%, rgba(0, 0, 0, 0.6) 100%),
+    url(https://file.rendit.io/n/lSmTA0TUMkNssX4sc4pd.jpg),
+    linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.flexColumn20 {
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  padding: 26px 209px 26px 30px;
+  border-radius: 6px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal, normal, normal;
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 48%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    linear-gradient(180deg, rgba(0, 0, 0, 0) 48%, rgba(0, 0, 0, 0.6) 100%),
+    url(https://file.rendit.io/n/qFwWzZtdJL3JjR1Hnp2n.jpg),
+    linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.flexColumn21 {
+  height: 178px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  padding: 26px 150px 26px 30px;
+  border-radius: 6px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-blend-mode: normal, normal, normal;
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 48%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    linear-gradient(180deg, rgba(0, 0, 0, 0) 48%, rgba(0, 0, 0, 0.6) 100%),
+    url(https://file.rendit.io/n/JcCVO5oMRQTg2rVsTyvb.jpg),
+    linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 1));
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.blackFlexColumn1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 33px 0px 27px 24px;
+  background-color: #333333;
+}
+.image1 {
+  width: 1416px;
+  height: 259px;
+}

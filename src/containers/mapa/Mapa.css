@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.main {
+
+    text-align: center;
+    color: black;
+    background-color: white;
+
+
+}
+
+.titulo2 {
+
+    padding-top: 5%;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+
+}
+
+.frase2 {
+
+    margin-top: 15px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+    font-stretch: expanded;
+
+}
+
+.mapapb {
+
+
+    padding-top: 5%;
+    padding-right: 30%;
+    width: 100%;
+    padding-bottom: 5%;
+
+}

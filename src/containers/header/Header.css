@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body {
+
+   background-color: white;
+  
+
+
+}
+
+.titulo {
+
+    padding-top: 160px;
+    color: black;
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    padding-bottom: 10rem;
+
+    
+
+
+}
+
+.simboloparaiba {
+
+    margin-top: -90px;
+    margin-left: 88rem;
+    margin-bottom: 30rem;
+    display: block;
+    width: 9%;
+    fill: black;
+
+}
+
+.simbolousina {
+
+    display: block;
+    margin-left: 4rem;
+    width: 8%;
+    margin-top: -70rem;
+    padding-bottom: 50rem;
+
+}
+
